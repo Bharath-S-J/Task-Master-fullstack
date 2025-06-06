@@ -13,7 +13,7 @@ Task Master is a full-stack task management application built with **TypeScript*
 - CRUD operations for tasks (Create, Read, Update, Delete)
 - Task reminder with alert + audio notification
 - Protected routes based on auth state
-- Real-time updates using Firestore
+- Real-time, multi-device synchronization of tasks and reminders via Firestore
 - Responsive UI
 
 ### 📬 Backend (Node.js + Express + Firebase Admin SDK)
