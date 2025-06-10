@@ -1,5 +1,5 @@
 # Task Master
-
+ 
 Task Master is a full-stack task management application built with **TypeScript**, **CSS** **React**, and **Firebase** on the frontend, and a separate **Node.js + Express** backend to handle scheduled reminder emails.
 
 ## Features
